@@ -1,0 +1,4 @@
+-keep class com.mochipet.widget.widget.** { *; }
+-keep class com.mochipet.widget.receiver.** { *; }
+-keep class com.mochipet.widget.worker.** { *; }
+-keep class androidx.work.impl.** { *; }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mochi</string>
+    <string name="widget_description">Живой питомец Mochi на рабочем столе</string>
+
+    <string name="onboarding_title">Mochi</string>
+    <string name="onboarding_body">Mochi живёт в виджете на рабочем столе, а не в этом приложении. Добавьте виджет, чтобы познакомиться с питомцем.</string>
+    <string name="onboarding_pin_available">Нажмите кнопку, чтобы добавить виджет Mochi на рабочий стол.</string>
+    <string name="onboarding_manual_add">Долгое нажатие на рабочий стол → Виджеты → Mochi, затем перетащите виджет на экран.</string>
+    <string name="pin_widget_button">Добавить виджет на рабочий стол</string>
+
+    <string name="action_feed">Покормить</string>
+    <string name="action_play">Играть</string>
+    <string name="action_pet">Погладить</string>
+
+    <string name="mood_idle">Mochi спокоен</string>
+    <string name="mood_sleeping">Mochi спит</string>
+    <string name="mood_waking">Mochi просыпается</string>
+    <string name="mood_happy">Mochi счастлив</string>
+    <string name="mood_sad">Mochi грустит</string>
+    <string name="mood_curious">Mochi любопытен</string>
+    <string name="mood_bored">Mochi скучает</string>
+    <string name="mood_surprised">Mochi удивлён</string>
+    <string name="mood_angry">Mochi раздражён</string>
+    <string name="mood_playing">Mochi играет</string>
+    <string name="mood_eating">Mochi ест</string>
+    <string name="mood_resting">Mochi отдыхает</string>
+    <string name="mood_watching">Mochi наблюдает</string>
+    <string name="mood_interacting">Mochi рад вниманию</string>
+</resources>

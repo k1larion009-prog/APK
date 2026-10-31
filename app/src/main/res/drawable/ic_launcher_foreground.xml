@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,14C78,14 94,32 94,56C94,82 76,98 54,98C32,98 14,82 14,56C14,32 30,14 54,14Z"
+        android:fillColor="@color/pet_body" />
+    <path android:pathData="M24,66 a7,4 0 1,0 14,0 a7,4 0 1,0 -14,0 Z" android:fillColor="@color/pet_cheek" android:fillAlpha="0.8" />
+    <path android:pathData="M70,66 a7,4 0 1,0 14,0 a7,4 0 1,0 -14,0 Z" android:fillColor="@color/pet_cheek" android:fillAlpha="0.8" />
+    <path android:pathData="M33,56 Q40,48 47,56" android:strokeColor="@color/pet_pupil" android:strokeWidth="3" android:fillColor="#00000000" />
+    <path android:pathData="M61,56 Q68,48 75,56" android:strokeColor="@color/pet_pupil" android:strokeWidth="3" android:fillColor="#00000000" />
+    <path android:pathData="M44,72 Q54,86 64,72" android:strokeColor="@color/pet_mouth" android:strokeWidth="3" android:fillColor="#00000000" />
+</vector>
